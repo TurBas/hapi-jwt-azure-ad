@@ -1,0 +1,41 @@
+{
+  "name": "hapi-jwt-azure-ad",
+  "version": "0.0.1",
+  "description": "Hapi Auth using AzureAD JSON Web Tokens",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurBas/hapi-jwt-azure-ad.git"
+  },
+  "keywords": [
+    "Hapi.js",
+    "Authentication",
+    "Azure AD",
+    "Azure",
+    "Auth",
+    "JSON Web Tokens",
+    "JWT"
+  ],
+  "author": {
+    "name": "@TurBas",
+    "email": "michel.vanderweide@turbassolutions.nl",
+    "url": "https://github.com/TurBas"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turbas/hapi-jwt-azure-ad/issues"
+  },
+  "homepage": "https://github.com/turbas/hapi-jwt-azure-ad",
+  "dependencies": {
+    "boom": "^4.0.0",
+    "cookie": "^0.3.1",
+    "jsonwebtoken": "^7.1.9",
+    "restler": "^3.4.0"
+  },
+  "maintainers": [
+    {
+      "name": "TurBas",
+      "email": "michel.vanderweide@turbassolutions.nl"
+    }
+  ]
+}
