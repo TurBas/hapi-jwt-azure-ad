@@ -1,6 +1,6 @@
 {
   "name": "hapi-jwt-azure-ad",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hapi Auth using AzureAD JSON Web Tokens",
   "main": "lib/index.js",
   "repository": {
