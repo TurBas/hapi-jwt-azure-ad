@@ -123,6 +123,6 @@ The issuer of the token is verified against the issuer stated on the retrieved c
 
 ### Works for me
 
-I started this project to help me validate the bearer token I received from the Azure AD service from my Office 365 account and it suits my needs. While developing this plugin I tried to keep in mind that other developers (you) should be able to reuse my code. If anything doesn't work please repport an issue at https://github.com/turbas/hapi-jw-azure-ad/issues. 
+I started this project to help me validate the bearer token I received from the Azure AD service from my Office 365 account and it suits my needs. While developing this plugin I tried to keep in mind that other developers (you) should be able to reuse my code. If anything doesn't work please repport an issue at https://github.com/turbas/hapi-jwt-azure-ad/issues.
 
 If this plugin helped you by your project and your boss is now super proud of you I would like to hear from you as well.  
